@@ -13,8 +13,55 @@ padding-top: 50px;
 .img-landing h1 {
   color: white;
   text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
 }
 .img-landing p {
   color: white;
   text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+}
+.btn{
+  display: block;
+  margin: 0 auto;
+}
+.container-item{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.container-item h1{
+  color: black;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+.container-item p{
+  color: black;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+}
+.container-footer {
+  box-sizing: border-box;
+  border: solid 1px grey;
+  padding: 10px;
+}
+.img-responsive {
+  display: block;
+  margin: 0 auto;
+}
+.container-footer-bottom{
+  box-sizing: border-box;
+  border: solid 1px grey;
+  border-top: none;
+  padding: 10px;
+  background-color: #EEEEEE;
+  margin-bottom: 30px;
+}
+.container-footer-bottom p{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  text-align: center;
+  margin: 0;
 }
